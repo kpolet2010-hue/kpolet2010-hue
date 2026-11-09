@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/kpolet2010-hue">
-    <img src="https://img.shields.io/badge/GitHub-kpolet2010-hue-18181b?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=GitHub&message=kpolet2010-hue&color=18181b&style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Switzerland-18181b?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering-18181b?style=for-the-badge&logo=codefactor&logoColor=white" />
