@@ -136,9 +136,7 @@ A game infrastructure project involving authentication, matchmaking, player mana
 ## `09` — GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/kpolet2010-hue">
-    View my GitHub profile and achievements
-  </a>
+  <img src="./profile/trophy.svg" width="100%" alt="GitHub Profile Trophies" />
 </p>
 
 ---
