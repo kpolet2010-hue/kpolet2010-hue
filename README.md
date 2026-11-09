@@ -54,12 +54,14 @@ I believe in learning by building, understanding fundamentals and writing softwa
 
 ## `03` — Featured Projects
 
-### CoreSim
+### [CoreSim](https://github.com/kpolet2010-hue/CoreSim)
 **Computer Architecture & CPU Simulation**
 
 A custom CPU simulation project focused on understanding processor architecture, instruction execution, registers, ALU operations and low-level computing.
 
 `C++` `Computer Architecture` `Systems Programming`
+
+[Architecture & data flow](https://github.com/kpolet2010-hue/CoreSim/blob/main/docs/ARCHITECTURE.md) · [Source code](https://github.com/kpolet2010-hue/CoreSim)
 
 ### NOSONE
 **Game Infrastructure & Backend Engineering**
@@ -103,7 +105,7 @@ A game infrastructure project involving authentication, matchmaking, player mana
 
 ---
 
-## `06` — Currently Exploring
+## `07` — Currently Exploring
 
 - C++ and systems programming
 - CPU architecture and computer organization
@@ -113,15 +115,15 @@ A game infrastructure project involving authentication, matchmaking, player mana
 
 ---
 
-## `07` — Current Focus
+## `08` — Current Focus
 
 ```text
-[ ACTIVE ] CoreSim — CPU Architecture
+[ ACTIVE ] CoreSim — CPU Simulation & ALU Implementation
 [ ACTIVE ] C++ — Systems Programming
-[ LEARNING ] Computer Architecture
+[ LEARNING ] Computer Architecture & Instruction Sets
 ```
 
-**B. GitHub Trophies**
+## `09` — GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kpolet2010-hue&theme=darkhub&no-frame=true&no-bg=true&column=6" width="100%" />
