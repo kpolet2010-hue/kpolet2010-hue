@@ -113,12 +113,25 @@ A game infrastructure project involving authentication, matchmaking, player mana
 
 ---
 
+## `07` — Current Focus
+
+```text
+[ ACTIVE ] CoreSim — CPU Architecture
+[ ACTIVE ] C++ — Systems Programming
+[ LEARNING ] Computer Architecture
+```
+
+**B. GitHub Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kpolet2010-hue&theme=darkhub&no-frame=true&no-bg=true&column=6" width="100%" />
+</p>
+
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,50:312e81,100:09090b&height=3&section=footer" width="100%" />
   <br/><br/>
-
   <i>“Understand the system. Build beyond its limits.”</i>
 
   <br/><br/>
