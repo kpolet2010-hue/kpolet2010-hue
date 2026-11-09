@@ -108,9 +108,9 @@ A game infrastructure project involving authentication, matchmaking, player mana
 ## `06` — Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kpolet2010-hue/kpolet2010-hue/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kpolet2010-hue/kpolet2010-hue/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kpolet2010-hue/kpolet2010-hue/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kpolet2010-hue/kpolet2010-hue/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kpolet2010-hue/kpolet2010-hue/output/github-snake.svg?v=2" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kpolet2010-hue/kpolet2010-hue/output/github-snake.svg?v=2" width="100%" />
 </picture>
 
 ---
@@ -136,7 +136,9 @@ A game infrastructure project involving authentication, matchmaking, player mana
 ## `09` — GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kpolet2010-hue&theme=darkhub&no-frame=true&no-bg=true&column=6" width="100%" />
+  <a href="https://github.com/kpolet2010-hue">
+    View my GitHub profile and achievements
+  </a>
 </p>
 
 ---
