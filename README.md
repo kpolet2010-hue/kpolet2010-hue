@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kpolet">
-    <img src="https://img.shields.io/badge/GitHub-Kpolet-18181b?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/kpolet2010-hue">
+    <img src="https://img.shields.io/badge/GitHub-kpolet2010-hue-18181b?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Switzerland-18181b?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering-18181b?style=for-the-badge&logo=codefactor&logoColor=white" />
@@ -83,14 +83,23 @@ A game infrastructure project involving authentication, matchmaking, player mana
 
 ---
 
+
 ## `05` — Contribution Activity
+
+<img
+  src="./assets/contributions.dark.svg"
+  width="100%"
+  alt="GitHub Contributions"
+/>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kpolet2010-hue&bg_color=09090b&color=e4e4e7&line=818cf8&point=a5b4fc&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    src="./assets/lifetime.dark.svg"
     width="100%"
+    alt="GitHub Contribution History"
   />
 </p>
+
 
 ---
 
