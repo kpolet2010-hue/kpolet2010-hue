@@ -23,6 +23,7 @@ jobs:
           version: v1.1.1
           options: 'username=kpolet2010-hue&theme=darkhub&column=6&no-frame=true&no-bg=true'
           path: profile/trophy.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
       - name: Commit trophy card
         run: |
